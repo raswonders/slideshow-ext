@@ -18,5 +18,5 @@ function nextSlide() {
 }
 
 function imgFullscreen() {
-    document.querySelectorAll('.ReactModal__Content .oCCRx')[1].requestFullscreen())
+    document.querySelectorAll('.ReactModal__Content .oCCRx')[1].requestFullscreen()
 }
